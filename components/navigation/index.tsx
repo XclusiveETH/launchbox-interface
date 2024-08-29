@@ -51,7 +51,7 @@ const LBNavigation = () => {
       icon: <QuestionIcon />,
       href: '',
       isActive: false,
-      onClick: () => window.open('https://metastablelabs.notion.site/How-Launchbox-works-2e8612854e054c1e8bf0e1ff025b8af4?pvs=25', '_blank'),
+      onClick: () => window.open('https://docs.alphas.meme/', '_blank'),
     },
   ];
 
